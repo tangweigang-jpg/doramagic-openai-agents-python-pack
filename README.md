@@ -38,7 +38,7 @@ Start with `03_PITFALL_LOG.md` when setup, permissions, runtime behavior, or ver
 
 ## What This Pack Adds
 
-This is an independent AI context resource pack for openai/openai-agents-python.: host instructions, prompt preview, evals, pitfalls, and recovery rules you can load into Claude Code, Codex, Cursor, Aider, and other AI coding agents.
+This is an independent AI context resource pack for openai/openai-agents-python: host instructions, prompt preview, evals, pitfalls, and recovery rules you can load into Claude Code, Codex, Cursor, Aider, and other AI coding agents.
 
 - A loadable `AGENTS.md` / `CLAUDE.md` with specific tool boundaries, handoff checks, and stop conditions.
 - Eval prompts that verify the agent can reason about your workflow before it claims success.
