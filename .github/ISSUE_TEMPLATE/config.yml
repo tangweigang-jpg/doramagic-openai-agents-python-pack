@@ -1,0 +1,8 @@
+blank_issues_enabled: false
+contact_links:
+  - name: openai/openai-agents-python issue tracker
+    url: https://github.com/openai/openai-agents-python/issues
+    about: Use the upstream repository for product bugs that are not caused by this pack.
+  - name: Doramagic project page
+    url: https://doramagic.ai/en/projects/openai-agents-python/
+    about: Read the structured manual and project resource page for this pack.
