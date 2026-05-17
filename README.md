@@ -1,4 +1,4 @@
-# openai-agents-python Doramagic Pack
+# Openai Agents Python AI Context Pack for Claude Code, Codex, Cursor, and Aider
 
 Pack version: `v1.0.0` · Last updated: `2026-05-14`
 
@@ -38,7 +38,7 @@ Start with `03_PITFALL_LOG.md` when setup, permissions, runtime behavior, or ver
 
 ## What This Pack Adds
 
-This is an independent capability pack for `openai/openai-agents-python`. It gives your AI coding agent:
+This is an independent AI context resource pack for openai/openai-agents-python.: host instructions, prompt preview, evals, pitfalls, and recovery rules you can load into Claude Code, Codex, Cursor, Aider, and other AI coding agents.
 
 - A loadable `AGENTS.md` / `CLAUDE.md` with specific tool boundaries, handoff checks, and stop conditions.
 - Eval prompts that verify the agent can reason about your workflow before it claims success.
@@ -49,7 +49,8 @@ This is an independent capability pack for `openai/openai-agents-python`. It giv
 
 ## When This Helps
 
-Use this pack when you want an AI agent to give AI builders a first durable OpenAI Agents workflow with tool boundaries, handoff checks, eval prompts, and recovery rules for multi-agent drift without pretending the upstream tool is already installed, verified, or officially endorsed.
+Use this pack when you want an AI coding agent to understand the upstream project context, setup boundaries, common pitfalls, and verification steps before it edits files, installs dependencies, or claims the tool is ready.
+
 
 ## What You Get
 
